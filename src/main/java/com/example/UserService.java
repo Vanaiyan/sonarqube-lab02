@@ -37,3 +37,4 @@ Statement st = conn.createStatement();
 String query =
 "DELETE FROM users WHERE name = '" + username + "'";
 }
+}
